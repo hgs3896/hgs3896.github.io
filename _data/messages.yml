@@ -4,6 +4,15 @@
 locales:
   # English translation
   # -------------------
+  ko: &DEFAULT_KO
+    overview: "Overview"
+    toc: "목록"
+    written_by: "작성자"
+    updated: "최신"
+    share: "공유하기"
+  ko_kr:
+    <<: *DEFAULT_KO     # use Korean translation for ko_kr
+
   en: &DEFAULT_EN
     overview: "Overview"
     toc: "Table of Contents"
