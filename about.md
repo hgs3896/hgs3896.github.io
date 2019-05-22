@@ -17,4 +17,4 @@ At 14, I tried to construct a few lines of a single program written in C on my o
 It was very difficult.
 Therefore, I started **C#** at first.
 
-To see more information about me, see my **[Curriculum Vitae](../cv/)**.
+To see more information about me, see my **[Curriculum Vitae](../cv)**.
