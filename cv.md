@@ -3,7 +3,7 @@ layout: post
 title: "Curriculum Vitae"
 author: "Ji Seong Ham"
 date: 2019-03-09
-permalink: /cv
+permalink: /cv/
 ---
 
 ## Your Contact Information
