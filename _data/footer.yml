@@ -1,4 +1,7 @@
 # Footer navigation links
 
-- title: 푸터 타이틀
-  url:
+- title: Home
+  url: /
+
+- title: About
+  url: /about/

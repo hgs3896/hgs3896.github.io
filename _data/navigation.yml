@@ -1,6 +1,10 @@
 # Site navigation links
 
-- title: 네비게이션 타이틀
-  url:
-  excerpt:
-  image:
+- title: Home
+  url: /
+  excerpt: "Go to home"
+  # image:
+
+- title: About
+  url: /about/
+  excerpt: "Go to home"
