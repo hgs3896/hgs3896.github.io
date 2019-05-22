@@ -2,8 +2,8 @@
 
 title: "Ham's Github Page"
 description: "Welcome to my github page!"
-logo: /images/profile.jpg ## 120x120 px default image used for Twitter summary card
-teaser: /images/teaser.png # 400x250 px default teaser image used in image archive grid
+logo: profile.jpg ## 120x120 px default image used for Twitter summary card
+teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: ko
 url: https://hgs3896.github.io
 feed:
