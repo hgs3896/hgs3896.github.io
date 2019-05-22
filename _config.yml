@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Ham's Github Page"
+description: "Welcome to my github page!"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: ko
 url:
 feed:
   path: atom.xml
@@ -26,14 +26,14 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: "함지성(Ji Seong Ham)"
+  email: "hgs3896@naver.com"
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: "a CSE student at Hanyang Univ."
+  avatar: https://avatars1.githubusercontent.com/u/1921149?s=460&v=4 # 160x160 px image for author byline
   disqus-shortname:
 
 
