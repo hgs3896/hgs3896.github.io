@@ -71,6 +71,7 @@ permalink: /cv/
 
  * [Deep Learning Study](https://github.com/hgs3896/Deep-Learning)
     > This repository is for my deep learning study at deeplearning.ai.
+    > [Neural Networks and Deep Learning by deeplearning.ai on Coursera. Certificate earned at Saturday, June 1, 2019 11:41 PM GMT](https://www.coursera.org/account/accomplishments/certificate/CND85SL5SQV8)
 
  * [TOCPIT Studynotes](https://github.com/hgs3896/TOPCIT-stduynotes)
     > This repository is for preparation of the test named TOPCIT (only available @ Korea, South).
