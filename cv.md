@@ -76,7 +76,10 @@ permalink: /cv/
    > Certificate earned at Saturday, June 1, 2019 11:41 PM GMT
 
    ###### 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai on Coursera.](https://www.coursera.org/account/accomplishments/certificate/M6HYHKXDM7RF)
-   > Certificate earned at Sunday, August 25, 2019 11:41 PM GMT
+   > Certificate earned at Sunday, August 25, 2019 19:55 PM GMT
+
+   ###### 3. [Structuring Machine Learning Projects by deeplearning.ai on Coursera.](https://www.coursera.org/account/accomplishments/certificate/NSDE28QWXY29)
+   > Certificate earned at Sunday, January 19, 2020 21:51 PM GMT
 
  * [TOCPIT Studynotes](https://github.com/hgs3896/TOPCIT-stduynotes)
     > This repository is for preparation of the test named TOPCIT (only available @ Korea, South).
