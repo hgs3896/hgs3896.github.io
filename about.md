@@ -18,3 +18,5 @@ It was very difficult.
 Therefore, I started **C#** at first.
 
 To see more information about me, see my **[Curriculum Vitae](../cv)**.
+
+[![hgs3896's github stats](https://github-readme-stats.vercel.app/api?username=hgs3896&show_icons=true)](https://github.com/hgs3896)
