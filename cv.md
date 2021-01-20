@@ -90,12 +90,13 @@ permalink: /cv/
 
 ## Experience
  * Programming Language Experience
-    1. C : 2 years  
-    2. C++ : 2 year  
-    3. Java : 2 years  
-    4. Python : 1 year  
-    5. PHP : 3 months  
-    6. Ruby : 1 week  
+    1. C: 3 years  
+    2. C++: 3 year  
+    3. Java: 2 years  
+    4. Python: 2 year  
+    5. PHP: 3 months  
+    6. Ruby: 1 week  
+    7. Go: 2 weeks
 
 ## Interests
 
