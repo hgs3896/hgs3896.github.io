@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hgs3896.github.io/sitemap.xml
