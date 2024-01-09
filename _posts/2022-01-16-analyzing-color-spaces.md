@@ -7,16 +7,20 @@ tags: [imaging]
 # 디지털 이미지 처리
 
 ## 목차
-- 서론
-- 기본 용어 설명
-    - 색상 모델
-    - 색공간
-- [RGB 색상 모델](#1-rgb-색상-모델)
-- [CMYK 색상 모델](#2-cmyk-색상-모델)
-- [HSL 색상 모델](#3-hsl--hsv-색상-모델)
-- [HSV 색상 모델](#3-2-hsv-색조hue--채도saturation--명도value-brightness)
-- [YUV 색상 모델](#4-yuv-색상-모델)
-- [CIE 색상 모델](#5-ciergb--ciexyz--cielab-색상-모델)
+- [디지털 이미지 처리](#디지털-이미지-처리)
+  - [목차](#목차)
+  - [서론](#서론)
+  - [기본 용어 설명](#기본-용어-설명)
+    - [A. Color Model (색상 모델)](#a-color-model-색상-모델)
+    - [B. Color Space (색공간)](#b-color-space-색공간)
+  - [1. RGB 색상 모델](#1-rgb-색상-모델)
+  - [2. CMYK 색상 모델](#2-cmyk-색상-모델)
+  - [3. HSL / HSV 색상 모델](#3-hsl--hsv-색상-모델)
+    - [3-1. HSL(HSB): 색조(Hue) + 채도(Saturation) + 밝기(Lightness)](#3-1-hslhsb-색조hue--채도saturation--밝기lightness)
+    - [3-2. HSV: 색조(Hue) + 채도(Saturation) + 명도(Value; Brightness)](#3-2-hsv-색조hue--채도saturation--명도value-brightness)
+  - [4. YUV 색상 모델](#4-yuv-색상-모델)
+  - [5. CIERGB / CIEXYZ / CIELAB 색상 모델](#5-ciergb--ciexyz--cielab-색상-모델)
+  - [References](#references)
 
 ## 서론
 

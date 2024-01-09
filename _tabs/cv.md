@@ -1,9 +1,8 @@
 ---
 icon: fas fa-user-md
 order: 5
-title: "CV"
-author: "함지성"
-date: 2021-08-02
+title: CV
+author: 함지성
 ---
 
 ## CV(Curriculum Vitae)
