@@ -17,3 +17,5 @@ package-lock.json
 # IDE Configurations
 .vscode
 
+# Mac OSX
+.DS_Store
