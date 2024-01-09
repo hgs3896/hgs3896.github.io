@@ -11,12 +11,12 @@ tags: [imaging]
 - 기본 용어 설명
     - 색상 모델
     - 색공간
-- [RGB 색상 모델]()
-- [CMYK 색상 모델]()
-- [HSL 색상 모델]()
-- [HSV 색상 모델]()
-- [YUV 색상 모델]()
-- [CIE 색상 모델]()
+- [RGB 색상 모델](#1-rgb-색상-모델)
+- [CMYK 색상 모델](#2-cmyk-색상-모델)
+- [HSL 색상 모델](#3-hsl--hsv-색상-모델)
+- [HSV 색상 모델](#3-2-hsv-색조hue--채도saturation--명도value-brightness)
+- [YUV 색상 모델](#4-yuv-색상-모델)
+- [CIE 색상 모델](#5-ciergb--ciexyz--cielab-색상-모델)
 
 ## 서론
 
